@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VideoAula</string>
+    <string name="str_nome">Nome: </string>
+    <string name="str_email">Email: </string>
+    <string name="str_cadastrar">Cadastrar</string>
+    <string name="str_listar">Listar</string>
+    <string name="str_apagar">Apagar</string>
+    <string name="str_sair">Sair</string>
+    <string name="str_endereco">Endereço: </string>
+    <string name="str_numero">Número: </string>
+</resources>
